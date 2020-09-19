@@ -1,0 +1,15 @@
+// 1. custom variables overwrites.
+@import "custom/variables.scss";
+
+// 2. Import default variables and available mixins.
+@import "uikit/variables-theme.scss";
+@import "uikit/mixins-theme.scss";
+
+// 3.custom mixin overwrites.
+@import "custom/mixins.scss";
+
+// 4. Import UIkit.
+@import "uikit/uikit-theme.scss";
+
+// 5. Import theme pages.
+@import "pages/home.scss";

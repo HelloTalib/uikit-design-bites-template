@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@300;500&display=swap");
+// html
+$global-font-family: "Poppins", sans-serif;
+$base-body-font-weight: 300;
+$global-line-height: 1.55;
+$global-color: #444;
+$global-font-size: 15px;
+$global-primary-background: #e4336a;
+$heading-bullet-border: $global-primary-background;
+$global-secondary-background: #1c5bea;
+$container-small-max-width: 1000px;
+
+$breakpoint-small: 640px !default;
+$breakpoint-medium: 960px !default;
+$breakpoint-large: 1200px !default;
+$breakpoint-xlarge: 1600px !default;
+// $global-border:#fddf00;
+// $global-primary-color: #fddf00;
+// $icon-button-background:red;
+// $global-border-width: 200px;
+// $global-background: #444;
+// $global-muted-color: #fddf00;
+// $global-link-color: #ca404f;
+
+// $base-link-hover-color: rgba(255,255,255,.7)!important;
+// $base-link-hover-text-decoration: none;
+
+$heading-xlarge-font-size-l: 114px;
+// $heading-xlarge-font-size-m: 114px;
+// $heading-xlarge-font-size-s: 114px;
+
+//seclection
+// $base-selection-background: #111;
+
+//heading
+$base-heading-font-family: "Montserrat", sans-serif;
+$base-heading-font-weight: 700;
+$base-heading-color: #333;
+// $heading-line-width:200px;

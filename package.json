@@ -1,0 +1,14 @@
+{
+  "name": "design-bites",
+  "version": "1.0.0",
+  "description": "practice series",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass assets/scss/main.scss assets/css/style.css -w"
+  },
+  "author": "TALIB",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
