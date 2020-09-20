@@ -1,4 +1,5 @@
-html {
+html,
+body {
   overflow-x: hidden;
 }
 .page-wrapper {
@@ -115,16 +116,6 @@ html {
   }
 }
 
-#hero_img_right {
-  right: -22vw;
-  bottom: -40vh;
-  transform: translateY(-8vh);
-}
-#hero_img_left {
-  right: 74vw;
-  top: -10vh;
-  transform: translateY(-7vh);
-}
 .uk-text-large {
   font-size: 24px;
 }

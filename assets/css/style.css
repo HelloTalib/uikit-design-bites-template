@@ -10064,6 +10064,7 @@ iframe.uk-cover {
   h3 {
     page-break-after: avoid; } }
 
+html,
 body {
   overflow-x: hidden; }
 
@@ -10152,16 +10153,6 @@ body {
   text-decoration: none; }
   #footer .uk-link-muted:hover {
     color: #e4336a; }
-
-#hero_img_right {
-  right: -22vw;
-  bottom: -40vh;
-  transform: translateY(-8vh); }
-
-#hero_img_left {
-  right: 74vw;
-  top: -10vh;
-  transform: translateY(-7vh); }
 
 .uk-text-large {
   font-size: 24px; }
