@@ -10065,7 +10065,7 @@ iframe.uk-cover {
     page-break-after: avoid; } }
 
 html {
-  overflow-x: hidden; }
+  overflow-x: hidden !important; }
 
 .page-wrapper {
   position: relative;
